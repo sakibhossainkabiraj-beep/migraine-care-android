@@ -1,0 +1,16 @@
+{
+  "name": "migraine-care-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Migraine Care Android APK build project",
+  "scripts": {
+    "build": "echo 'Capacitor Android build is handled by GitHub Actions'"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0"
+  }
+}
